@@ -1,0 +1,3 @@
+
+# This is a placeholder file to simulate a saved FAISS vectorstore.
+# In practice, you will generate this from your uploaded materials using OpenAIEmbeddings.
